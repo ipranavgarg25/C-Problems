@@ -2,10 +2,10 @@
 In this repository  you will get the C++ problems that may help you in your problem solving
 
 
-# Hacktoberfest 2021
+<!-- # Hacktoberfest 2021 -->
 ![hacktoberfest2021](https://user-images.githubusercontent.com/78488673/137143376-6d37feea-f5a2-40d5-a1ff-a5f479c5306b.png)
 # UPLOADING YOUR PROJECTS:
-You guys can upload any type of project in this repo using *C++* , *JAVA* , *WebDev projects* anything that you are good in.
+You guys can upload any type of project in this repo using *C++* anything that you are good in.
 # HACKTOBERFEST:
 #hacktoberfest is a program by Digital Ocean, DEV and Github, where you can easily win a T-Shirt just by making 4 pull requests in the month of October to any open source projects on Github.
 # 1. Register Here:
